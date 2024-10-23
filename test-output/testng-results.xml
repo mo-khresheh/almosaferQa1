@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-23T12:26:11 EET" name="Default suite" finished-at="2024-10-23T12:26:14 EET" duration-ms="3398">
+    <groups>
+    </groups>
+    <test started-at="2024-10-23T12:26:11 EET" name="Default test" finished-at="2024-10-23T12:26:14 EET" duration-ms="3398">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:MyTestCases@4a194c39]" started-at="2024-10-23T12:26:11 EET" name="MySetup" finished-at="2024-10-23T12:26:14 EET" duration-ms="3212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="ChecktheEnglishLanguagIsDefault()[pri:1, instance:MyTestCases@4a194c39]" started-at="2024-10-23T12:26:14 EET" name="ChecktheEnglishLanguagIsDefault" finished-at="2024-10-23T12:26:14 EET" duration-ms="47" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChecktheEnglishLanguagIsDefault -->
+        <test-method signature="ChecktheDefaultCurrencyIsSAR()[pri:2, instance:MyTestCases@4a194c39]" started-at="2024-10-23T12:26:14 EET" name="ChecktheDefaultCurrencyIsSAR" finished-at="2024-10-23T12:26:14 EET" duration-ms="43" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChecktheDefaultCurrencyIsSAR -->
+        <test-method signature="CheckContactNumber()[pri:3, instance:MyTestCases@4a194c39]" started-at="2024-10-23T12:26:14 EET" name="CheckContactNumber" finished-at="2024-10-23T12:26:14 EET" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckContactNumber -->
+        <test-method signature="QitafLogoisDispalyed()[pri:4, instance:MyTestCases@4a194c39]" started-at="2024-10-23T12:26:14 EET" name="QitafLogoisDispalyed" finished-at="2024-10-23T12:26:14 EET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QitafLogoisDispalyed -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
